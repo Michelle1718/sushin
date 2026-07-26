@@ -10,9 +10,11 @@ This project is part of a step-by-step YouTube tutorial in which we build a resp
 - Scroll animations.
 - Compatible with all modern browsers and devices.
 
+![preview img](/preview.png)
+
 origin: https://github.com/bedimcode/responsive-sushi-website-2.git
 ```
 
 Designed & developed with ❤️ by **[Bedimcode](https://www.youtube.com/@Bedimcode)**
 
-![preview img](/preview.png)
+
