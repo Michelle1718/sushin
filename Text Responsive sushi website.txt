@@ -1,140 +1,160 @@
 ========== HEADER & NAV ==========
-✅.nav__logo
+✅ .nav__logo
 Sushi
 
-✅.nav__link
-Home - About Us - Menu - Special - Contact
+✅ .nav__link
+Início - Sobre Nós - Cardápio - Especiais - Contato
 
 
-========== SECTION HOME ==========
-✅.home__title
-Enjoy Delicious <br> The <span>Japanese Foods
+========== SEÇÃO INÍCIO ==========
+✅ .home__title
+Desfrute da Deliciosa <br> Culinária <span>Japonesa
 
-✅.home__description
-We serve the finest Japanese cuisine. Prepared with carefully selected natural ingredients by a professional chef, guaranteeing a high-quality flavor. We hope you enjoy your meal.
+✅ .home__description
+Servimos o melhor da culinária japonesa, preparada com ingredientes naturais cuidadosamente selecionados por um chef profissional, garantindo um sabor de alta qualidade. Esperamos que você aproveite sua refeição.
 
-✅.button
-Order Now
+✅ .button
+Peça Agora
 
-✅.home__text
+✅ .home__text
 美 <br> 味
+(Delicioso / Sabor)
 
 
-========== SECTION ABOUT ==========
-✅.section__title
-About Us / 私たちについて
+========== SEÇÃO SOBRE ==========
+✅ .section__title
+Sobre Nós / 私たちについて
 
-✅.section__title
-We Serve You The <br> Authentic <span>Japanese Flavor</span>
+✅ .section__title
+Servimos a Você o <br> Autêntico <span>Sabor Japonês</span>
 
-✅.about__description
-We have been operating for ten years to continue serving Japanese food, with authentic flavors that we will continue to naturalize for you.
+✅ .about__description
+Há dez anos oferecemos a verdadeira culinária japonesa, preservando seus sabores autênticos e utilizando ingredientes naturais para proporcionar a melhor experiência aos nossos clientes.
 
-✅.button
-Special Menu
+✅ .button
+Cardápio Especial
 
 .about__text
 日本
+(Japão)
 
 
-========== SECTION MENU ==========
-✅.section__title
-Our Menu
+========== SEÇÃO CARDÁPIO ==========
+✅ .section__title
+Nosso Cardápio
 
-✅.menu__text-1
+✅ .menu__text-1
 寿 <br> 司
+(Sushi)
 
-✅.menu__text-2
+✅ .menu__text-2
 拉 <br> 麺
+(Lámen)
 
-✅.menu__button
-Sushi - Nigiri - Ramen - Udon - Others
+✅ .menu__button
+Sushi - Nigiri - Lámen - Udon - Outros
 
-✅.menu__name
-🔹Menu cards 1
-Maki - Maki Salmon - Ikura
+✅ .menu__name
 
-🔹Menu cards 2
-Tako Nigiri - Amaebi Nigiri - Sake Nigiri
+🔹 Cartão 1
+Maki
+Maki de Salmão
+Ikura
 
-🔹Menu cards 3
-Soja Ramen - Tonkotsu Ramen - Shoyu Ramen 
+🔹 Cartão 2
+Nigiri de Polvo
+Nigiri de Camarão Doce
+Nigiri de Salmão
 
-🔹Menu cards 4
-Nabemono Udon - Yaki Udon - kitsune Udon
+🔹 Cartão 3
+Lámen de Soja
+Lámen Tonkotsu
+Lámen Shoyu
 
-🔹Menu cards 5
-Dumpling - Onigiri - Sukiyaki
+🔹 Cartão 4
+Udon Nabemono
+Yaki Udon
+Kitsune Udon
 
-✅.menu__price
-$8.99
+🔹 Cartão 5
+Guioza
+Onigiri
+Sukiyaki
 
-✅.menu__stock
-10 available
+✅ .menu__price
+R$ 8,99
 
-========== SECTION NEW ==========
-✅.section__subtitle
-Newly Added / 新しく追加された
+✅ .menu__stock
+10 disponíveis
 
-✅.section__title
-Our Special Dish <br> <span>Sashimi Oishi<span>
 
-✅.new__description
-We serve the best and freshest seafood eaten raw with soy sauce, grated ginger and wasabi, combining the authentic flavor of the Japanese for your palate.
+========== SEÇÃO ESPECIAL ==========
+✅ .section__subtitle
+Recém-Adicionado / 新しく追加された
 
-✅.new__text-1
+✅ .section__title
+Nosso Prato Especial <br> <span>Sashimi Oishi</span>
+
+✅ .new__description
+Servimos os melhores e mais frescos frutos do mar consumidos crus, acompanhados de molho shoyu, gengibre ralado e wasabi, proporcionando o autêntico sabor japonês ao seu paladar.
+
+✅ .new__text-1
 日本
+(Japão)
 
-✅.new__text-2
+✅ .new__text-2
 刺身料理
+(Culinária de Sashimi)
 
 
-========== SECTION CONTACT ==========
-✅.section__title
-Contact Us And Order <br> The Best Sushi
+========== SEÇÃO CONTATO ==========
+✅ .section__title
+Entre em Contato e Peça <br> o Melhor Sushi
 
-✅.contact__text-1
+✅ .contact__text-1
 日 <br> 本
+(Japão)
 
-✅.contact__text-2
+✅ .contact__text-2
 接 <br> 触
+(Contato)
 
-✅.contact__title
-Messages:
+✅ .contact__title
+Mensagens:
 
-✅.contact__social
+✅ .contact__social
 https://m.me/bedimcode
-https://api.whatsapp.com/send?phone=51123456789&text=Hello, more information!
+https://api.whatsapp.com/send?phone=51123456789&text=Olá, gostaria de mais informações!
 mailto:medical@email.com
 
-✅.contact__title ✅.contact__address
-Location:
-Lima - Peru <br> Av. The Trees #0123
+✅ .contact__title
+Localização:
+Lima - Peru <br> Av. As Árvores, nº 0123
 
-Phone:
-+0123(00)-765-4321 <br> +00-0123456
+Telefone:
++0123 (00) 765-4321 <br> +00-0123456
 
-Attention:
-Monday - Friday <br> 8am - 6pm
+Atendimento:
+Segunda a Sexta <br> 08:00 às 18:00
 
-✅.contact__description
-Subscribe to the newsletter
+✅ .contact__description
+Inscreva-se em nossa newsletter
 
-✅.contact__input placeholder
-Enter your email address
+✅ .contact__input placeholder
+Digite seu endereço de e-mail
 
-✅.contact__button
-Subscribe
+✅ .contact__button
+Inscrever-se
 
 
-========== FOOTER ==========
-✅.footer__logo
+========== footer ==========
+✅ .footer__logo
 Sushi
 
-✅.footer__social
+✅ .footer__social
 https://www.facebook.com/bedimcode
 https://www.instagram.com/bedimcode/
 https://twitter.com/
 
-✅.footer__copy
-&#169; All Rights Reserved By Bedimcode
+✅ .footer__copy
+&#169; Todos os Direitos Reservados à Bedimcode
