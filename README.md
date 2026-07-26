@@ -1,4 +1,4 @@
-# Responsive Sushi Website
+# Responsive Sushi Website:
 
 This project is part of a step-by-step YouTube tutorial in which we build a responsive sushi website from scratch using HTML, CSS and JavaScript.
 
